@@ -43,11 +43,11 @@ export const TextServicios = () => {
            display: 'inline-block',
            border: '1px solid white',
            padding: '10px',
-           textAlign: 'justify',
+           textAlign: 'center',
            lineHeight: '35px',
-           fontSize: '20px'
+           fontSize: '26px'
          }}>
-         <b>- - -  Mira las imágenes para más información - - -</b> 
+         <b style={{color: '#10004F'}}>  Mira las imágenes para más información ... </b> 
          </Typography>
     </Grid>
          
